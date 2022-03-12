@@ -13,21 +13,22 @@
 ## Java
 
 1. :video_camera:  Computer programming: What is object-oriented language? - [Link](https://www.youtube.com/watch?v=SS-9y0H3Si8)
-2. :newspaper: I Finally Understand Static vs. Dynamic Typing and You Will Too! - [Link](https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7)
-3. :newspaper: Naming a Package - [Link](https://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html)
-4. :video_camera:  42 IntelliJ IDEA Tips and Tricks - [Link](https://www.youtube.com/watch?v=eq3KiAH4IBI)
-5. :newspaper: How and why to override the equals method in Java - [Link](http://users.csc.calpoly.edu/~gfisher/classes/102/info/howToOverrideEquals.html)
-6. :newspaper: Java Generics FAQs by Angelika Langer - [Link](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
-7. :book: Effective Java: Chapter 5: Generics
-8. :video_camera: Java Generics: Past, Present and Future by Richard Warburton/Raoul-Gabriel Urma - [Link](https://www.youtube.com/watch?v=LEAoMMEIUXk)
-9. :book: Effective Java: Chapter 10: Exceptions
-10. :book: Effective Java Summary - [Link](https://github.com/HugoMatilla/Effective-JAVA-Summary)
-11. :book: Clean Code Summary - [Link](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
-12. :video_camera: Get a Taste of Lambdas and Get Addicted to Streams - [Link](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
+2. :video_camera:  Computer programming: What is Arrays in Java Programming? - [Link](https://www.codeforhunger.com/2021/11/What%20are%20arrays%20in%20java.html)
+3. :newspaper: I Finally Understand Static vs. Dynamic Typing and You Will Too! - [Link](https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7)
+4. :newspaper: Naming a Package - [Link](https://docs.oracle.com/javase/tutorial/java/package/namingpkgs.html)
+5. :video_camera:  42 IntelliJ IDEA Tips and Tricks - [Link](https://www.youtube.com/watch?v=eq3KiAH4IBI)
+6. :newspaper: How and why to override the equals method in Java - [Link](http://users.csc.calpoly.edu/~gfisher/classes/102/info/howToOverrideEquals.html)
+7. :newspaper: Java Generics FAQs by Angelika Langer - [Link](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
+8. :book: Effective Java: Chapter 5: Generics
+9. :video_camera: Java Generics: Past, Present and Future by Richard Warburton/Raoul-Gabriel Urma - [Link](https://www.youtube.com/watch?v=LEAoMMEIUXk)
+10. :book: Effective Java: Chapter 10: Exceptions
+11. :book: Effective Java Summary - [Link](https://github.com/HugoMatilla/Effective-JAVA-Summary)
+12. :book: Clean Code Summary - [Link](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
+13. :video_camera: Get a Taste of Lambdas and Get Addicted to Streams - [Link](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
 14. :newspaper: Java 8: The Missing Tutorial - [Link](https://github.com/shekhargulati/java8-the-missing-tutorial)
-14. :newspaper: Asynchronous programming with Java 8 - [Link](https://medium.com/xebia-engineering/asynchronous-programming-with-java-java-8-d71a5323070e)
-15. :newspaper: A Real-world Introduction to Finding classes in Object-oriented Programming Languages - [Link](https://medium.com/xebia-engineering/a-real-world-introduction-to-finding-classes-in-object-oriented-programming-languages-612eae35b802)
-16. :newspaper: Learning Generics by Understanding signature of Collections.copy() method - [Link](https://medium.com/xebia-engineering/learning-generics-by-understanding-signature-of-collections-copy-method-1325a48ecae2)
+15. :newspaper: Asynchronous programming with Java 8 - [Link](https://medium.com/xebia-engineering/asynchronous-programming-with-java-java-8-d71a5323070e)
+16. :newspaper: A Real-world Introduction to Finding classes in Object-oriented Programming Languages - [Link](https://medium.com/xebia-engineering/a-real-world-introduction-to-finding-classes-in-object-oriented-programming-languages-612eae35b802)
+17. :newspaper: Learning Generics by Understanding signature of Collections.copy() method - [Link](https://medium.com/xebia-engineering/learning-generics-by-understanding-signature-of-collections-copy-method-1325a48ecae2)
 
 ## TDD and Automation Testing
 
